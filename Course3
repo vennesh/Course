@@ -9,3 +9,9 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Name: Vennesh
+Module name: Divide and Conquer
+
+Divide and conquer algorithms are most widely used in sorting techniques like merge sort.
+we will divide the problem into various sub problems and find solutions to sub problems then will combinely get the main problem solution
